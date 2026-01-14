@@ -1,0 +1,6 @@
+（一）
+SELECT stucode,stuname,stuage,stuclass FROM t_student WHERE stuname="王" AND stuage>=21;
+（二）
+INSERT INTO t_student (stucode,stuname,stuage,stuclass) VALUES("m202301001","王二",20,"AC202301");
+（三）
+SELECT 
