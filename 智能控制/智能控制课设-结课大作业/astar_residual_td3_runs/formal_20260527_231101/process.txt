@@ -1,0 +1,5 @@
+﻿pid=8944
+runDir=E:\auto_control\codex\astar_residual_td3_runs\formal_20260527_231101
+stdout=E:\auto_control\codex\astar_residual_td3_runs\formal_20260527_231101\train_stdout.log
+stderr=E:\auto_control\codex\astar_residual_td3_runs\formal_20260527_231101\train_stderr.log
+started=2026-05-27T23:11:01.7663514+08:00
